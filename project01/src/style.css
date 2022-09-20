@@ -10,11 +10,11 @@
 }
 
 .fonte-titulo {
-    font-family: 'Pacifico', cursive;
+    font-family: 'Pacifico', cursive;    
 }
 
 .cor-especial {
-    color: darkred;
+    color: darkred!important;
 }
 
 .botao-cor-especial {
@@ -24,4 +24,14 @@
 
 .borda-cor-especial {
     border-color: darkred;
+}
+
+.card-largura {
+    max-width: 18rem;
+    border-color: darkred;
+}
+
+.card-posição-imagem {
+    object-fit: cover;    
+    height:  200px;
 }
