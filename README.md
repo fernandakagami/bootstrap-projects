@@ -1,2 +1,2 @@
 # bootstrap projects
- projects with bootstrap 4
+ projects with bootstrap
