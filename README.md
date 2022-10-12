@@ -1,4 +1,3 @@
 # bootstrap projects
 
-Project 01
-<a href="https://fernandakagami.github.io/bootstrap-projects/project01/">Link to project</a>
+<a href="https://fernandakagami.github.io/bootstrap-projects/project01/">Link to project01</a>
